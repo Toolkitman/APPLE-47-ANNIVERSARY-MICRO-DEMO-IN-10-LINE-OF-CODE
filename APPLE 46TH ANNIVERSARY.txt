@@ -1,0 +1,32 @@
+10 PRINT "": PRINT "     APPLE 46TH MICRO ANNIVERSARY": PRINT ""
+20 PRINT "                 ^": PRINT "                @@@@@":PRINT "                 @@@": PRINT ""
+30 PRINT "                APPLE ": PRINT ""
+40 FOR I=1 TO 10000 : NEXT I
+50 PRINT "                !U-U!": PRINT "                  ~":PRINT "": PRINT "                 WOZ": PRINT ""
+60 FOR I=1 TO 10000 : NEXT I
+70 PRINT "                ~@-@~": PRINT "                  -":PRINT "": PRINT "                 JOBS": PRINT ""
+80 FOR I=1 TO 10000 : NEXT I
+90 PRINT "                 ###": PRINT "                 #O#": PRINT "                 ###": PRINT "" 
+100 PRINT "                IPHONE": PRINT "" : FOR I=1 TO 10000 : NEXT I : GOTO 10
+
+
+WHAT IS THIS???
+INSPIRED BY APPLE 30TH ANNIVERSARY DEMO FOR APPLE 1 I HAVE TRY TO BUILD A MINI 10 LINE APPLE 46TH ANNIVERSARY WITH THE SAME MECHANISM BUT IN BASIC LANGUAGE.
+HOPE YOU APPRECIATE IT
+
+APPLE 1 EMULATOR
+https://www.scullinsteel.com/apple1/?Clear=#
+
+COPY PASTE THE TOP CODE INSIDE THE LOAD PAGE INSIDE THE EMULATOR AFTER PRESSING RESET AND WRITE E000R RETURN ON APPLE 1 SCREEN.
+
+CODE EXPLAINED
+line 10 print The Anniversay printing
+line 20 print the apple on the screen
+line 30 print APPLE 
+line 40 make a 10000 milliseconds loop
+line 50 print woz face onscreen 
+line 60 make a 10000 milliseconds loop
+line 70 print jobs face onscreen
+line 80 make a 10000 milliseconds loop
+line 90 print an iphone onscreen
+line 100 make a 10000 milliseconds loop and go back to line 10
